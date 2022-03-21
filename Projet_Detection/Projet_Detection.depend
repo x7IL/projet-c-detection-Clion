@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1644347193 source:/home/jul/Projet_Detection/affichage.c
+	"structure.h"
+	<stdio.h>
+	<stdlib.h>
+
+1644347193 /home/jul/Projet_Detection/structure.h
+	"structure.h"
+	<stdio.h>
+	<stdlib.h>
+
+1644347193 source:/home/jul/Projet_Detection/creation_info.c
+	"structure.h"
+	"mon_string.h"
+	<stdio.h>
+	<stdlib.h>
+
+1643212667 /home/jul/Projet_Detection/mon_string.h
+
+1643305473 source:/home/jul/Projet_Detection/mon_string.c
+	<stdio.h>
+	<stdlib.h>
+
+1644347193 source:/home/jul/Projet_Detection/main.c
+	<stdlib.h>
+	<stdio.h>
+	"mon_string.h"
+	"structure.h"
+	"creation_infos.h"
+	"crea_struct.h"
+	"affichage.h"
+
+1644347480 /home/jul/Projet_Detection/creation_infos.h
+
+1644347193 /home/jul/Projet_Detection/crea_struct.h
+
+1644347193 /home/jul/Projet_Detection/affichage.h
+
+1644347220 source:/home/jul/Projet_Detection/crea_struct.c
+	<stdio.h>
+	<stdlib.h>
+	"structure.h"
+
+1643305473 source:/home/jul/Projet_Detection (copie)/mon_string.c
+	<stdio.h>
+	<stdlib.h>
+
+1644443124 source:/home/jul/Projet_Detection (copie)/crea_struct.c
+	<stdlib.h>
+	"structure.h"
+
+1644444409 /home/jul/Projet_Detection (copie)/structure.h
+	"structure.h"
+	<stdio.h>
+	<stdlib.h>
+
+1644444547 source:/home/jul/Projet_Detection (copie)/creation_info.c
+	"structure.h"
+	"mon_string.h"
+	<stdio.h>
+	<stdlib.h>
+
+1643212667 /home/jul/Projet_Detection (copie)/mon_string.h
+
+1644444358 source:/home/jul/Projet_Detection (copie)/main.c
+	<stdlib.h>
+	<stdio.h>
+	"structure.h"
+	"creation_infos.h"
+	"crea_struct.h"
+	"affichage.h"
+
+1644444358 /home/jul/Projet_Detection (copie)/creation_infos.h
+
+1644428429 /home/jul/Projet_Detection (copie)/crea_struct.h
+
+1644428289 /home/jul/Projet_Detection (copie)/affichage.h
+
+1644432873 source:/home/jul/Projet_Detection (copie)/affichage.c
+	"structure.h"
+	<stdio.h>
+	<stdlib.h>
+
+1644512823 source:/home/jul/Office_Analyse/Projet_Detection (copie)/crea_struct.c
+	<stdlib.h>
+	"structure.h"
+
+1644532583 /home/jul/Office_Analyse/Projet_Detection (copie)/structure.h
+	"structure.h"
+	<stdio.h>
+	<stdlib.h>
+
+1644525443 source:/home/jul/Office_Analyse/Projet_Detection (copie)/affichage.c
+	"structure.h"
+	<stdio.h>
+	<stdlib.h>
+
+1644532487 source:/home/jul/Office_Analyse/Projet_Detection (copie)/creation_info.c
+	"structure.h"
+	"mon_string.h"
+	<stdio.h>
+	<stdlib.h>
+
+1644530326 /home/jul/Office_Analyse/Projet_Detection (copie)/mon_string.h
+
+1644530326 source:/home/jul/Office_Analyse/Projet_Detection (copie)/mon_string.c
+	<stdio.h>
+	<stdlib.h>
+
+1644532540 source:/home/jul/Office_Analyse/Projet_Detection (copie)/main.c
+	<stdlib.h>
+	<stdio.h>
+	"structure.h"
+	"creation_infos.h"
+	"crea_struct.h"
+	"affichage.h"
+	"mon_string.h"
+
+1644520848 /home/jul/Office_Analyse/Projet_Detection (copie)/creation_infos.h
+
+1644512823 /home/jul/Office_Analyse/Projet_Detection (copie)/crea_struct.h
+
+1644512823 /home/jul/Office_Analyse/Projet_Detection (copie)/affichage.h
+
+1644525443 source:/home/jul/Office_Analyse/Projet_Detection/affichage.c
+	"structure.h"
+	<stdio.h>
+	<stdlib.h>
+
+1644576617 /home/jul/Office_Analyse/Projet_Detection/structure.h
+	"structure.h"
+	<stdio.h>
+	<stdlib.h>
+
+1644512823 source:/home/jul/Office_Analyse/Projet_Detection/crea_struct.c
+	<stdlib.h>
+	"structure.h"
+
+1644576443 source:/home/jul/Office_Analyse/Projet_Detection/creation_info.c
+	"structure.h"
+	"mon_string.h"
+	<stdio.h>
+	<stdlib.h>
+
+1644530326 /home/jul/Office_Analyse/Projet_Detection/mon_string.h
+
+1644576313 source:/home/jul/Office_Analyse/Projet_Detection/main.c
+	<stdlib.h>
+	<stdio.h>
+	"structure.h"
+	"creation_infos.h"
+	"crea_struct.h"
+	"affichage.h"
+	"mon_string.h"
+
+1644575243 /home/jul/Office_Analyse/Projet_Detection/creation_infos.h
+
+1644512823 /home/jul/Office_Analyse/Projet_Detection/crea_struct.h
+
+1644512823 /home/jul/Office_Analyse/Projet_Detection/affichage.h
+
+1644530326 source:/home/jul/Office_Analyse/Projet_Detection/mon_string.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,10 @@
+<dc:title>
+<dc:subject>
+<dc:creator>
+<dc:description>
+<cp:lastModifiedBy>
+<cp:revision>
+<dcterms:created_xsi:type="dcterms:W3CDTF">
+<dcterms:modified_xsi:type="dcterms:W3CDTF">
+<cp:category>
+<dc:language>

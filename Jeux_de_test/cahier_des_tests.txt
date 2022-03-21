@@ -1,0 +1,29 @@
+#################################################################################################
+Audio+Images_Infected.docx : 
+
+Docx comprenant un audio avec un lien caché ainsi qu'une Image avec un liens caché.
+
+-lien 1 : "https://www.youtube.com/watch?v=ru4ZWOSOsPM"
+-lien 2 : "https://openclassrooms.com/forum/sujet/codeblocks-le-top-67632"
+
+#################################################################################################
+Macro+liens+images+Audia.dotm : 
+
+Dotm comprenant une macro inoffensive en VBA, une image avec un hyper lien, un audio avec un lien caché ainsi que des hyperliens avec des liens visibles par l'utilisateur et un hyperlien qui redirige vers un autre site qu'a sont point initiale. 
+
+-Macro (inactive)
+-lien 1 : "https://www.knowprogram.comhttps://www.xarg.org/puzzles//python/python-convert-string-to-ascii-value/"
+-lien 2 : "https://repairit.wondershare.com/office-file-recovery/how-to-repair-ms-word-files-after-virus-infection.html"
+-lien 3 : https://www.xarg.org/puzzles/
+- lien 4 : "https://www.commentcamarche.net/faq/12755-proteger-vos-documents-word-contre-les-macrovirus"
+- lien 5 : "https://hashcat.net/wiki/doku.php?id=example_hashes"
+
+#################################################################################################
+macro+liens+long_document.docx : 
+
+Docx comprenant des hyperliens, mais c'est un document comprenant de nombreux informations dans le document afin de tester l'efficacité du programme.
+
+- lien 1 : "https://kalilinuxtutorials.com/eviloffice/"
+- lien 2 : "https://ttsreader.com/fr/"
+- lien 3 : "https://learning.esiea.fr/login/index.php"
+#################################################################################################
